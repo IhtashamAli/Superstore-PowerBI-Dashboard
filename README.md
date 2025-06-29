@@ -26,7 +26,7 @@ It analyzes **sales vs. profit performance**, highlights **high vs. low margin p
 ---
 
 ## 📸 Dashboard Preview
-
+![Dashboard](./Dashboard.png)
 
 ---
 
